@@ -7,7 +7,7 @@ Introducing our cutting-edge Telegram Accounts Generator with APIs! Unlock a wor
 ## For password contact team :- https://t.me/bitrige
 
 # Works on algorithm of sms.activation and 5Sims and no need to pay ever for the numbers.
-
+![273633391-76a79d9f-14da-40cb-970a-0600cae09ee6](https://github.com/user-attachments/assets/83f1760b-ed16-4eda-88bb-8a73956e31df)
 <p align="center">
   Working video of the tool with instructions.
 </p>
