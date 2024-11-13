@@ -4,7 +4,7 @@ Introducing our cutting-edge Telegram Accounts Generator with APIs! Unlock a wor
 
 ## Price is simple 60$ for lifetime no hidden charges
 
-# align="center">For password ping me :- https://t.me/bitrige
+## For password contact team :- https://t.me/bitrige
 
 # Works on algorithm of sms.activation and 5Sims and no need to pay ever for the numbers.
 
